@@ -41,7 +41,7 @@ export default {
 }
 .bg-blue-gradient,
 .text-gradient {
-  background: linear-gradient(136.91deg, #468ef9 -12.5%, #0c66ee 107.5%);
+  background: linear-gradient(136.91deg, #12D8FA -12.5%, #A6FFCB 107.5%);
 }
 .text-gradient {
   -webkit-background-clip: text;
